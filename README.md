@@ -12,9 +12,11 @@ Now, all you have to do is type your Google Dataset search query into the omnibo
 <p>
 Google Dataset Query will be submitted and loaded into the current tab. Through this together for data scientists
 <p>
-or anyone who wants to quickly access Google's Dataset Search and preserve Chrome's default search engine.
+or anyone who wants to quickly access Google's Dataset Search and preserve Chrome's default search engine. Most of the code
 <p>
-26 lines of code, I hope some may find it useful. For those with an interest in data science and data visualization Goolgle's 
+was culled from https://developer.chrome.com/extensions/api_index .     
+<p>
+26 lines of code, I hope some may find it useful. For those with an interest in data science and data visualization Google's 
 <p>
 Dataset Search  https://datasetsearch.research.google.com/ and R Studio Cloud <sup>beta</sup>   https://rstudio.cloud/
 <p>
