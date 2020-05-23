@@ -22,6 +22,9 @@ Dataset Search  https://datasetsearch.research.google.com/ and R Studio Cloud <s
 <p>
 are great resources to explore and learn from. This small contribution is completely opensource under the MIT and BSD Licenses.
 <p>
+Installation, simply download the GDS.crx file or drop the relevant source file into a dir and from the extensions form while in 
+<p>     
+developer mode utilize the load unpacked feature and select the directory you dropped the sources into. Enjoy!
 Cheers, 
 </p>
      M.
