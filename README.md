@@ -14,17 +14,18 @@ Google Dataset Query will be submitted and loaded into the current tab. Through 
 <p>
 or anyone who wants to quickly access Google's Dataset Search and preserve Chrome's default search engine. Most of the code
 <p>
-was culled from https://developer.chrome.com/extensions/api_index .     
-<p>
-26 lines of code, I hope some may find it useful. For those with an interest in data science and data visualization Google's 
-<p>
-Dataset Search  https://datasetsearch.research.google.com/ and R Studio Cloud <sup>beta</sup>   https://rstudio.cloud/
-<p>
-are great resources to explore and learn from. This small contribution is completely opensource under the MIT and BSD Licenses.
-<p>
-Installation, simply download the <a href="https://github.com/dev-tek/GDS/blob/master/GDS.crx?raw=true">GDS.crx</a> file or drop the relevant source files into an empty dir and from the 
+was culled from https://developer.chrome.com/extensions/api_index . 26 lines of code, I hope some may find it useful. For those 
 <p>     
-extensions tab while in developer mode utilize the load unpacked feature and select the directory you dropped the sources into. Enjoy! 
+with an interest in data science and data visualization Google's Dataset Search  https://datasetsearch.research.google.com/ and R 
+<p>
+Studio Cloud <sup>beta</sup>   https://rstudio.cloud/ are great resources to explore and learn from. This small contribution is 
+<p>     
+completely opensource under the MIT and BSD Licenses. Installation, simply download the 
+<a href="https://github.com/dev-tek/GDS/blob/master/GDS.crx?raw=true">GDS.crx</a> file or drop the relevant source files into an empty dir and from the 
+<p>     
+extensions tab while in developer mode utilize the load unpacked feature and select the directory you dropped the sources into. 
+<p>     
+Enjoy! 
 <p>     
 Cheers, 
 </p>
