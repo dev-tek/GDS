@@ -1,0 +1,31 @@
+// Modifications and  design elements Copyright 2020 developer tek  use of this source code is governed under the MIT License 
+// Original source code Copyright 2017 The Chromium Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style license.
+// Please refer to the LICENSE  file for additional notices.
+// https://opensource.google/docs/
+
+{
+  "name": "GDS - Google Database Search ",
+  "description": "Type 'GDS' in the Chrome omni box to redirect search query to Google Dataset  Search.",
+  "version": "1.5",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "omnibox": { "keyword" : "GDS" },
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": {
+      "16": "GDS-16.png",
+      "32": "GDS-32.png"
+      }
+  },
+  "icons": {
+    "16": "GDS-16.png",
+    "32": "GDS-32.png",
+    "48": "GDS-48.png",
+    "128": "GDS-128.png"
+  }
+  
+  
+}
