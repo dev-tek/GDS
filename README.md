@@ -1,12 +1,12 @@
 # GDS
 <img src="https://raw.githubusercontent.com/dev-tek/GDS/master/GDS-32.png" alt="GDS" width="32" height="32" align="left">
 
-Chrome browser addon GDS - Google Dataset Search Chrome omnibox redirect. 
+Chrome browser extension GDS - Google Dataset Search Chrome omnibox redirect. 
 
 <pre>
 I wrote this in order to quickly access Google Dataset Search directly from Chrome's omnibox. 
 
-Directions for use, install the addon. Once GDS is installed type gds into Chrome's omnibox. Then depress your tab key once.
+Directions for use, install the extension. Once GDS is installed type gds into Chrome's omnibox. Then depress your tab key once.
 
 Now, all you have to do is type your Google Dataset search query into the omnibox and depress the enter / return key. Your
 
