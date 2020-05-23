@@ -14,7 +14,7 @@ Google Dataset Query will be submitted and loaded into the current tab. Through 
 <p>
 or anyone who wants to quickly access Google's Dataset Search and preserve Chrome's default search engine.
 <p>
-24 lines of code, I hope some may find it useful. For those with an interest in data science and data visualization Goolgle's 
+26 lines of code, I hope some may find it useful. For those with an interest in data science and data visualization Goolgle's 
 <p>
 Dataset Search  https://datasetsearch.research.google.com/ and R Studio Cloud <sup>beta</sup>   https://rstudio.cloud/
 <p>
