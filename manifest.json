@@ -6,7 +6,7 @@
 
 {
   "name": "GDS - Google Database Search ",
-  "description": "Type 'GDS' in the Chrome omni box to redirect search query to Google Dataset  Search.",
+  "description": "Type 'GDS' in the Chrome omni box to redirect search query to Google Dataset Search.",
   "version": "1.5",
   "background": {
     "scripts": ["background.js"],
