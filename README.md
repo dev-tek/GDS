@@ -10,7 +10,7 @@ Directions for use, install the extension. Once GDS is installed type gds into C
 
 Now, all you have to do is type your Google Dataset search query into the omnibox and depress the enter / return key. Your
 
-Google Dataset Query will be submitted and loaded into the current tab. Through this together for data scientists
+Google Dataset Query will be submitted and loaded into the current tab. Threw this together for data scientists
 
 or anyone who wants to quickly access Google's Dataset Search and preserve Chrome's default search engine. Most of the code
 
